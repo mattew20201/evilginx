@@ -107,7 +107,7 @@ func Banner() {
 	putAsciiArt("    @@@@@@WW@@@WW@@WWW@@WW@@@WW@@@@@@    \n")
 	//printOneliner2()
 	//fmt.Println()
-	putAsciiArt("_   @@@@@@@@@@@@@@ Telegram: HosterMSG @@@@@@@@@@@@@@@@@@@   _")
+	putAsciiArt("_   @@@@@@@@@@@@@@ Telegram: Aizen_blackbeard @@@@@@@@@@@@@@@@@@@   _")
 	printOneliner1()
 	fmt.Println()
 	putAsciiArt("__                                     __\n")
